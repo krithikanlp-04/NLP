@@ -1,0 +1,37 @@
+The Name game is a fun rhyming musical game which takes a name and creates a verse out of it. The general template for the song goes 
+
+"John" "John", bo-bohn
+banana-fana fo-fohn
+fee-fi-mo-mohn
+John!
+
+For names beginning with vowels, there is no trimming done. 
+For names beginning with consonants, the onset of the first syllable is clipped and the remaining stem is attached to the nonsense verses. 
+For names beginning with consonants in the rhyme ie B, F, or M, the onset of the first syllable is clipped and the remaining stem is attached to the nonsense verses, while also dropping the starting letter from the infixation point.
+
+For example 
+Names: Earl, Burt, Michael, Flint
+
+Earl, Earl, bo-bearl
+banana-fana fo-fearl
+fee-fi-mo-mearl
+Earl!
+
+Burt, Burt, bo-urt
+banana fana fo-furt
+fee-fi-mo-murt
+Burt!
+
+Michael, Michael, bo-bichael
+banana-fana fo-fichael
+fee-fi-mo-ichael
+Michael! 
+
+Flint, Flint, bo-bint
+banana-fana fo-int
+fee-fi-mo-mint
+Flint! 
+ 
+
+
+

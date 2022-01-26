@@ -1,0 +1,37 @@
+"TUT" is a secret spelling language which is used in the United States by slaves to converse without the knowledge of their masters. 
+It is also called Double Dutch or Tutney. Each spelling language uses a special alphabet in which the letters have new sounds, syllables or phonemes assigned to them. This language is like a substitution cipher which enables only people who know the alphabet to understand the conversations
+
+Alphabet
+A-a 
+B-bub 
+C - cut 
+D-dud 
+E-e 
+F-fuf 
+G - gug 
+H - hush 
+I - i
+J- jug
+K - kut
+L - lul
+M - mum
+N - nun
+O- o
+P - pup
+Q - Q
+R - rur
+S - sus
+T - tut
+U - u
+V - vuv
+W - wuv
+X - x
+Y - yut
+Z - zuz
+
+Examples
+
+cat - cut-at-ut
+computer - cut-o-mum-pup-u-tut-e-rur
+Hello how are you? - hush-e-lull-o hush-o-wuv a-rur-e yut-o-u? 
+

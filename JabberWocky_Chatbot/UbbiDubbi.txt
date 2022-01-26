@@ -1,0 +1,19 @@
+Ubby-dubby is a language that takes any input - word, sentence etc and returns a string that has the syllable "ub" attached before a vowel and "bu" attached after a vowel. Consonants are left unchanged. 
+
+Instructions
+1. Add an "ub" before a vowel
+2. Add a "bu" after a vowel 
+3. If a vowel is followed by another vowel, treat them as a single vowel and add "bubu" after the cluster
+4. Leave all Consonants
+
+Examples
+Good morning - guboobubud muboburnubibung
+
+Hello - hubebullubobu
+
+Code - cubobudubebu
+
+Strum - strububum
+
+
+Have fun with the Ubby-Dubby translator!
